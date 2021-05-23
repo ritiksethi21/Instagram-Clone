@@ -7,6 +7,7 @@ import Create from "./components/Create";
 import Posts from "./components/Posts";
 import Sidebar from "./components/Sidebar";
 import Context from "./Global/Context";
+
 function App() {
   return (
     <Context>
