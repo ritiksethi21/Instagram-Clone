@@ -82,7 +82,7 @@ const Context = (props) => {
       setLoader(false);
     });
 
-    // fetch posts from firebase
+    // fetching posts from firebase
     db.collection("posts")
       .orderBy("currentTime", "desc")
       .onSnapshot((snp) => {
