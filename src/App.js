@@ -13,10 +13,12 @@ function App() {
     <Context>
       <Navbar />
       <div className="container">
+    
         <Stories />
         <Create />
         <Posts />
         <Sidebar />
+    
       </div>
       <Model />
     </Context>
