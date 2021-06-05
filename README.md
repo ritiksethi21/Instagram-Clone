@@ -1,5 +1,7 @@
 # Instagram-Clone
 # https://instagram-clone-2112.web.app/
+![insta](https://user-images.githubusercontent.com/58940080/120894766-c6752900-c637-11eb-861e-e9aed0de9cec.PNG)
+
 # Getting Started with Create React App
 
 
